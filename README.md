@@ -49,6 +49,7 @@ animate('.element', {
   duration: 1000,
   easing: 'ease-in-out'
 });
+```
 
 Para mais exemplos e detalhes, consulte a [documentação completa](link para a documentação).
 
