@@ -64,8 +64,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 5. Abra um Pull Request
 
 ## Assets externos
-https://assetstore.unity.com/packages/tools/modeling/deform-148425
-https://assetstore.unity.com/packages/tools/audio/simplespectrum-free-audio-spectrum-generator-webgl-85294
+-https://assetstore.unity.com/packages/tools/modeling/deform-148425
+
+-https://assetstore.unity.com/packages/tools/audio/simplespectrum-free-audio-spectrum-generator-webgl-85294
 
 ## Licença
 
