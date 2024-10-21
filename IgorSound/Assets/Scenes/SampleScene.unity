@@ -231,14 +231,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 1901232425141292794, guid: 1173a0709ffd6f649a0de871730f3cc9, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: cc3ccdd31fd1cdd41bcd284e738d0725, type: 3}
     - target: {fileID: 4539520656364462939, guid: 1173a0709ffd6f649a0de871730f3cc9, type: 3}
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 5421461299936919877, guid: 1173a0709ffd6f649a0de871730f3cc9, type: 3}
+      propertyPath: sfx1
+      value: 
+      objectReference: {fileID: 8300000, guid: cc3ccdd31fd1cdd41bcd284e738d0725, type: 3}
+    - target: {fileID: 5421461299936919877, guid: 1173a0709ffd6f649a0de871730f3cc9, type: 3}
       propertyPath: meshRenderer
       value: 
       objectReference: {fileID: 1801862431}
+    - target: {fileID: 5421461299936919877, guid: 1173a0709ffd6f649a0de871730f3cc9, type: 3}
+      propertyPath: movementScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8435630989495860986, guid: 1173a0709ffd6f649a0de871730f3cc9, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
